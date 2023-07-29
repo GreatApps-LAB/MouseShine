@@ -1,6 +1,4 @@
-<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210368404-216273fb-c930-453e-b32b-e3614872eba3.png" width="100%"/></a><br>
-
-# InterativeShine
+# MouseShine
 
 Este repositório contém um pequeno script JavaScript que implementa um elegante efeito de brilho circular em um elemento HTML específico. O efeito de brilho é ativado quando o mouse é movido sobre o elemento, criando uma interação visualmente atraente para os usuários.
 
